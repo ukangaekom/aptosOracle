@@ -1,7 +1,6 @@
 
 mod aptos_ai;
 
-
 use frankenstein::GetUpdatesParams;
 use frankenstein::ReplyParameters;
 use frankenstein::SendMessageParams;
