@@ -78,7 +78,7 @@ Regarding supports, this project is ready to support all aptos based projects in
 
 ### Testing the application locally
 
-```git clone ```
+
 
 
 
