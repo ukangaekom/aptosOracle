@@ -3,3 +3,6 @@ target
 Dockerfile
 .git
 .gitignore
+/public
+README.md
+
