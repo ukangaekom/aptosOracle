@@ -37,14 +37,7 @@ pub async fn ai_agent(_text:&str) -> Option<std::string::String>  {
 
          
 
-    // match chat_res{
-    //     Ok(val) =>{
-    //         println!(val);
-    //     },
 
-    //     Err(e) =>{
-    //         println!("error {}",e);
-    //     }
     }
 
    
