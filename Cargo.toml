@@ -15,8 +15,11 @@ tokio = {version="1", features = ["full"]}
 
 genai = "=0.1.7"
 dotenv-flow = "0.16.2"
+
+# -- Json 
+
 serde = "1.0.213"
 serde_json = "1.0.132"
 
-# -- Json 
+
 

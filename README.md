@@ -69,6 +69,12 @@ Regarding supports, this project is ready to support all aptos based projects in
 
 # Technical Details 
 
+### Requirements
+To run the bot, you need to use a linux system with rust installed on the system. This can be ```wsl``` or any other linux based system. 
+
+### Installing Rust
+To install rust on your system, kindly follow the rust installation documentation 
+
 ### Architectural Design Overview of Aptos Oracle 
 
 <div align="center">
