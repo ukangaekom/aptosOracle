@@ -73,7 +73,7 @@ Regarding supports, this project is ready to support all aptos based projects in
 To run the bot, you need to use a linux system with rust installed on the system. This can be ```wsl``` or any other linux based system. 
 
 ### Installing Rust
-To install rust on your system, kindly follow the rust installation documentation [**Rust Installation**](https://).
+To install rust on your system, kindly follow the rust installation documentation [**Rust Installation**](https://doc.rust-lang.org/book/ch01-01-installation.html).
 
 
 ### Running The Application Locally
