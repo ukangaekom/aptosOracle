@@ -69,6 +69,34 @@ Regarding supports, this project is ready to support all aptos based projects in
 
 # Technical Details 
 
+### Requirements
+To run the bot, you need to use a linux system with rust installed on the system. This can be ```wsl``` or any other linux based system. 
+
+### Installing Rust
+To install rust on your system, kindly follow the rust installation documentation [**Rust Installation**](https://doc.rust-lang.org/book/ch01-01-installation.html).
+
+
+### Running The Application Locally
+After installing rust, open a testing directory for the appliaction and perform the following steps on your commandline:
+
+Step 1: ```git clone https://github.com/ukangaekom/aptosOracle.git```  
+
+Step 2: ```cd aptosOracle ```
+
+After you navigate into the ```aptosOracle``` directory, create a ```.env``` file and insert the following:
+1. GEMINI_API_KEY="Google Gemini api token"
+
+2. TELEGRAM_BOT_TOKEN="Telegram bot api token"
+
+Afer this, save and kindly follow the next step👇
+
+Step 3: ```cargo build ```
+
+Step 4: ```cargo run ```
+
+Head to the testing telegram bot and test your application.
+
+
 ### Architectural Design Overview of Aptos Oracle 
 
 <div align="center">
